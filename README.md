@@ -29,3 +29,4 @@ O objetivo é criar e manipular um banco de dados para uma pizzaria, permitindo 
 ## Prints:
 
 ![imagem1](./Captura_de_tela_2026-11-03_103249.png)
+![imagem2](./Captura_de_tela_2026-11-03_103216.png)
