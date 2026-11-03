@@ -25,3 +25,8 @@ O objetivo é criar e manipular um banco de dados para uma pizzaria, permitindo 
 - ![index.sql](./index.sql)
 - ![queries.sql](./queries.sql)
 - ![views.sql](./views.sql)
+
+## Prints:
+
+[imagem1](./imagem1)
+[imagem2](./imagem2)
