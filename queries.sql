@@ -8,7 +8,6 @@ SELECT Pizzas.nome FROM Itens_Pedido INNER JOIN Pizzas ON Itens_Pedido.pizza_id 
 ou SELECT nome FROM pizzas where pizza_id in (select pizza_id from itens_pedidos where pedido_id = 3);
 
 
-
 insert into cliente(nome, cep, numero, complemento) values 
 ("Gaspar Oliveira", "13903-303", "21", null);
 insert into Pizzas(nome, descricao, valor) values 
