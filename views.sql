@@ -11,7 +11,7 @@ SELECT * FROM vw_pedidos1;
 
 
 Desafios
-CREATE VIEW vw_pedidos AS
+CREATE VIEW vw_pedidos AS 
 SELECT p.pedido_id, c.nome AS cliente, pi.nome AS pizza, ip.quantidade, ip.valor AS preco_unitario FROM pedidos p INNER JOIN clientes c ON p.cliente_id = c.cliente_id INNER JOIN itens_pedido ip ON p.pedido_id = ip.pedido_id INNER JOIN pizzas pi ON ip.pizza_id = pi.pizza_id;
 
 CREATE VIEW vw_pedidos_subtotal AS
