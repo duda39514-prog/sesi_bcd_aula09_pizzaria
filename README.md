@@ -20,3 +20,8 @@ O objetivo é criar e manipular um banco de dados para uma pizzaria, permitindo 
 * GROUP BY
 * AS
 
+## ATividades:
+
+- ![index.sql](./index.sql)
+- ![queries.sql](./queries.sql)
+- ![views.sql](./views.sql)
